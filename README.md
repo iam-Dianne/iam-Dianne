@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iam-Dianne
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java in my first year in College and learning HTML/CSS during my free time.
+- 🌱 I’m currently learning Java in my second year in College and learning HTML/CSS during my free time.
 - 📫 How to reach me ... you can't.. yet.
 
 <!---
